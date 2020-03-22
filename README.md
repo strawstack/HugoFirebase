@@ -1,4 +1,4 @@
-# hugo-firebase
+# HugoFirebase
 
 Template files for hosting Hugo site on Firebase
 
